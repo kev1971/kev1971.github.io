@@ -101,4 +101,4 @@ graph TD;
 
   * [Keychron](https://keychron-russia.com/) Промышленный производитель выросший из краудфандинга
   * [ErgoHaven](https://eh.works/) Классная контора в Краснодаре - делает сплит клавиатуры
-  * [Фигурные клавиши на Авито](https://www.avito.ru/moskva/tovary_dlya_kompyutera/keykapy_klp_lame_i_reptiloid_dlya_klaviatury_7974187203?
+  * [Фигурные клавиши на Авито](https://www.avito.ru/moskva/tovary_dlya_kompyutera/keykapy_klp_lame_i_reptiloid_dlya_klaviatury_7974187203?)
