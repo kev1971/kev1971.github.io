@@ -1,6 +1,3 @@
-# kev1971.github.io
-Blog github pages of KEV
-
 # Обо мне
 
   Родиля в Омске в 1971 году. Учился в школе №14. Закончил в 1993 году 
@@ -9,7 +6,7 @@ Blog github pages of KEV
   Специальность 2201 ЭВМ сисиемы комплексы и сети. ... Сейчас живу в Сочи
 
   <details>
-  <summary> Тут живу </summary>
+  <summary>Тут живу</summary>
 
   ```geojson
 {
